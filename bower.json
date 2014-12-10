@@ -1,0 +1,10 @@
+{
+  "name": "fees-manager",
+  "private": true,
+  "dependencies": {
+    "jQuery": ">=1.7.0",
+    "angular": "~1.3.6",
+    "angular-route": "~1.3.4",
+    "bootstrap": "~3.3.1"
+  }
+}

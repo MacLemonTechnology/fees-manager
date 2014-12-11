@@ -29,3 +29,5 @@ bower install
 ```
 
 ### Tests
+
+*Not configured yet.*

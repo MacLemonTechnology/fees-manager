@@ -3,12 +3,18 @@ fees-manager
 
 ## Development
 
-### Prerequisites
+### Platform installation
 
 - **nodejs**: http://nodejs.org
 - **bower**: ```npm install bower -g```
+- **git**: http://git-scm.com/downloads
 
-### Installation
+Configure git if you're behind a proxy:
+```
+git config --global http.proxy http://hostname:port
+```
+
+### Project installation
 
 Clone GitHub repository:
 

@@ -9,9 +9,15 @@ fees-manager
 - **bower**: ```npm install bower -g```
 - **git**: http://git-scm.com/downloads
 
+Configure npm if you're behind a proxy:
+```
+npm config set proxy http://login:pass@hostname:port
+npm config set https-proxy http://login:pass@hostname:port
+```
+
 Configure git if you're behind a proxy:
 ```
-git config --global http.proxy http://hostname:port
+git config --global http.proxy http://login:pass@hostname:port
 ```
 
 ### Project installation

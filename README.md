@@ -11,7 +11,7 @@ fees-manager
 
 Configure git if you're behind a proxy:
 ```
-git config --global http.proxy http://hostname:port
+git config --global http.proxy http://login:pass@hostname:port
 ```
 
 ### Project installation

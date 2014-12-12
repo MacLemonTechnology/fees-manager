@@ -5,7 +5,7 @@ app.service('salaryService', ['$http', function($http){
     }
 
     SalaryService.prototype.getAll = function(callback){
-        $http.get('/service/salary/all')
+        $http.get('data/salaries.json')
             .success(function(data){
                 console.log('Data received:', data);
                 callback(undefined, data);

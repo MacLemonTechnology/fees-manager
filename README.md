@@ -26,6 +26,9 @@ Clone GitHub repository:
 
 ```
 git clone http://github.com/MacLemonTechnology/fees-manager.git
+
+git clone https://Misterdjey@bitbucket.org/Misterdjey/fees-manager.git
+
 ```
 
 Install bower dependencies:

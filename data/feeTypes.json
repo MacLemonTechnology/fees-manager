@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 0,
+    "Label": "N/R",
+    "ParentId": null,
+    "TVA": 19.6
+  },
+  {
+    "Id": 10,
+    "Label": "Moto",
+    "ParentId": null,
+    "TVA": 19.6
+  },
+  {
+    "Id": 20,
+    "Label": "Restaurant",
+    "ParentId": null,
+    "TVA": 19.6
+  },
+  {
+    "Id": 100,
+    "Label": "Essence",
+    "ParentId": 10,
+    "TVA": 19.6
+  },
+  {
+    "Id": 110,
+    "Label": "Entretient",
+    "ParentId": 10,
+    "TVA": 19.6
+  },
+  {
+    "Id": 120,
+    "Label": "Equipements",
+    "ParentId": 10,
+    "TVA": 19.6
+  },
+  {
+    "Id": 130,
+    "Label": "Beggels Toast",
+    "ParentId": 20,
+    "TVA": 19.6
+  },
+  {
+    "Id": 140,
+    "Label": "Il Conte",
+    "ParentId": 20,
+    "TVA": 19.6
+  },
+  {
+    "Id": 150,
+    "Label": "Gaspard",
+    "ParentId": 20,
+    "TVA": 19.6
+  }
+]
